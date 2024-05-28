@@ -1,0 +1,35 @@
+body {
+  background-color: #8400FF;
+  line-height: 1em;
+  }
+
+@font-face {
+  font-family: Vogue;
+  src: url(fonts/Vogue.ttf);
+}
+
+@font-face {
+  font-family: Bedas;
+  src: url(fonts/BebasNeueRegular-gxj83.ttf);
+}
+
+h1 {
+  font-family: Vogue;
+  text-align: center;
+  color: #ff00ee;
+  font-size: 80px;
+}
+
+p {
+  font-family: Bedas;
+  text-align: center;
+  color: white;
+  font-size: 35px;
+}
+
+.center {
+    right: 50%;
+    bottom: 50%;
+    transform: translate(50%,50%);
+    position: absolute;
+}
