@@ -5,8 +5,9 @@ a:link, a:visited {
 
 body {
   background-color: #8400FF;
+  background-image: url("images/stars.png");
   line-height: 1em;
-  }
+}
 
 @font-face {
   font-family: Vogue;
