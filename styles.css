@@ -1,3 +1,7 @@
+a:link, a:visited {
+  text-decoration: none;
+}
+
 body {
   background-color: #8400FF;
   line-height: 1em;
