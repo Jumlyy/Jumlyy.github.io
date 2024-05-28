@@ -3,10 +3,6 @@ a:link, a:visited {
   color: white;
 }
 
-audio {
-  display: none;
-}
-
 body {
   background-color: #8400FF;
   line-height: 1em;
