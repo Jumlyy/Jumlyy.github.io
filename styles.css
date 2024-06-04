@@ -3,6 +3,10 @@ a:link, a:visited {
   color: white;
 }
 
+a {
+  text-align: center
+}
+
 body {
   background-color: #8400FF;
   background-image: url("images/stars.png");
