@@ -39,3 +39,14 @@ p {
     transform: translate(50%,50%);
     position: absolute;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  background: #00FFFFFF;
+  color: #ff00ee;
+}
