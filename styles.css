@@ -63,8 +63,8 @@ p {
 
 
 @keyframes flash {
-  from {background-color: white;}
-  to {background-color: #ff00ee;}
+  from {color: white;}
+  to {color: #ff00ee;}
 }
 
 .flash {
