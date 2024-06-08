@@ -60,3 +60,9 @@ p {
   text-decoration: none;
   color: #ff00ee;
 }
+
+
+@keyframes flash {
+  from {background-color: white;}
+  to {background-color: #ff00ee;}
+}
