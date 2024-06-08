@@ -28,6 +28,11 @@ body {
   src: url(fonts/Bignoodletitling-8ojz.ttf);
 }
 
+@font-face {
+  font-family: LineSeed;
+  src: url(fonts/LINESeedSans_Rg-BF66398876eda0e.otf);
+}
+
 h1 {
   font-family: Noodle;
   text-align: center;
@@ -46,7 +51,7 @@ h1:hover {
 }
 
 p {
-  font-family: Bedas;
+  font-family: LineSeed;
   text-align: center;
   color: white;
   font-size: 35px;
