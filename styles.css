@@ -1,4 +1,4 @@
-a:link, a:visited {
+a:link, a:visited, a:hover {
   text-decoration: none;
   color: white;
 }
@@ -6,8 +6,6 @@ a:link, a:visited {
 a {
   text-align: center
 }
-
-.link:hover { color: #ffffff; } 
 
 body {
   background-color: #8400FF;
