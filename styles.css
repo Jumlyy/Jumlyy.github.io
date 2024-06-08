@@ -33,7 +33,6 @@ h1 {
   text-align: center;
   color: #ff00ee;
   font-size: 80px;
-  hover: white;
   animation-name: flash;
   animation-duration: 1s;
   animation-iteration-count: infinite;
@@ -72,5 +71,4 @@ p {
 @keyframes flash {
   from {color: white;}
   to {color: #ff00ee;}
-  to {color: white;}
 }
