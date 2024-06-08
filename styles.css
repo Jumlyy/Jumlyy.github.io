@@ -36,6 +36,10 @@ h1 {
   hover: white;
 }
 
+h1:hover {
+  color: white;
+}
+
 p {
   font-family: Bedas;
   text-align: center;
