@@ -66,3 +66,10 @@ p {
   from {background-color: white;}
   to {background-color: #ff00ee;}
 }
+
+.flash {
+  animation-name: flash;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
