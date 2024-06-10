@@ -82,6 +82,12 @@ p {
   text-shadow-color: #ff00ee;
 }
 
+.BN {
+  font-family:BlackNorth;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
 
 @keyframes flash {
   from {color: white;}
