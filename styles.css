@@ -39,6 +39,11 @@ body {
   src: url("fonts/line seed/LINESeedSans_Rg-BF66398876eda0e.otf");
 }
 
+@font-face {
+  font-family: BlackNorth;
+  src: url("fonts/Blacknorthdemo-mLE25.otf");
+}
+
 h1 {
   font-family: Noodle;
   text-align: center;
