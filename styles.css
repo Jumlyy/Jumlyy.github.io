@@ -78,13 +78,6 @@ p {
     position: absolute;
 }
 
-.BN {
-  font-family:BlackNorth;
-  text-align: center;
-  color: white;
-  font-size: 20px;
-}
-
 @keyframes flash {
   from {color: white;}
   to {color: #ff00ee;}
