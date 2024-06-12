@@ -55,12 +55,13 @@ h1 {
   animation-iteration-count: infinite;
   animation-timing-function: ease-in, ease-in;
   animation-direction: alternate, alternate-reverse;
-  transform: all 0.3s;
+  transition: all 0.3s;
 }
 
 h1:hover {
   color: white;
   animation-play-state: paused;
+  transition: all 0.3s;
   transform: scale(1.1);
 }
 
