@@ -44,7 +44,6 @@ body {
 }
 
 h1 {
-  transform: scaleX(1.25);
   transform-origin: 0
   display: inline-block;
   font-family: Noodle;
