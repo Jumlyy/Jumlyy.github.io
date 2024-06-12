@@ -89,3 +89,7 @@ p {
   from {text-shadow: -1px -1px 0 #ff00ee, 1px -1px 0 #ff00ee, -1px 1px 0 #ff00ee, 1px 1px 0 #ff00ee;}
   to {text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;}
 }
+
+.fa {
+  margin: 15px;
+}
