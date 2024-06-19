@@ -1,6 +1,11 @@
 html {
   background: #8400ff;
   line-height:0px;
+  animation-name: flashbg;
+  animation-duration: 10s, 10s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+  animation-direction: alternate;
 }
 
 a:link, a:visited, a:hover {
@@ -91,4 +96,9 @@ p {
 
 .fa {
   margin: 15px;
+}
+
+@keyframes flashbg {
+  from {background: #8400ff;}
+  to {background: #9209b6;}
 }
